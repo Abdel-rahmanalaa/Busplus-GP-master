@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015003531325",
+    "project_id": "busplus-fa702",
+    "storage_bucket": "busplus-fa702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015003531325:android:9428116cc7cc945fa84254",
+        "android_client_info": {
+          "package_name": "com.example.busplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015003531325-vc6ui9igjg6drfvcq5njflulupefi5gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.busplus",
+            "certificate_hash": "c706f762131dfdfdb226ea7c9a188f493c192db9"
+          }
+        },
+        {
+          "client_id": "1015003531325-k2fu1fq7uohk63hbevmj44sashq3j1ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EdI6DTMIsIoSFouwzVd-l6lg4j6VW4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015003531325-k2fu1fq7uohk63hbevmj44sashq3j1ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
